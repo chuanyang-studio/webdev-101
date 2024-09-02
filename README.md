@@ -10,7 +10,7 @@
 |----|----|----|
 |01|摩利亞地 `the-land-of-moriah`|信心試煉，挑戰第一周即搭建網站|
 |02|存心忍耐 `run-with-patience`|存心忍耐，超慢跑計時器|
-|03|abc|abc|
+|03|深淵與深淵響應 `deep-calleth-unto-deep`|深淵與深淵響應，讚美詩歌集|
 |04|abc|abc|
 |05|abc|abc|
 |06|abc|abc|
