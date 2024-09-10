@@ -39,3 +39,4 @@
 
 ### 近期活動
 - 9/13 一起追月去 - 中秋來烤肉吧
+![9/13 一起追月去 - 中秋來烤肉吧](https://github.com/chuanyang-studio/webdev-101/blob/main/images/20240914-%E7%83%A4%E8%82%89%E5%AE%A3%E5%82%B3%E5%96%AE.jpg?raw=true)
