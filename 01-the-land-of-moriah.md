@@ -9,7 +9,9 @@
 
 ### 主線任務
 1. [Blockly Games](https://blockly.games/) 拉方塊解謎
-2. n8n 帳號申請
+2. [n8n](https://n8n.io/) 帳號申請
+3. [chatgpt](https://chatgpt.com/) 帳號申請
+
 
 ### 驗收
 1. 了解 `軟體` 基本流程控制
