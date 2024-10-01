@@ -9,6 +9,7 @@
 
 |說明|指令|
 |----|----|
+|安裝 python|[下載連結](https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe)|
 |設定虛擬環境|`python -m venv venv`|
 |安裝 helium|`venv\scripts\pip install helium`|
 |打開環境|`venv\scripts\python`|
@@ -18,7 +19,7 @@
 
 |說明|指令|
 |----|----|
-|打開瀏覽器|`start_chrome('https://forms.gle/d5kH8BiUFYss4tJr9')`|
+|打開瀏覽器|`start_chrome('https://www.google.com/')`|
 |關閉瀏覽器|`kill_browser()`|
 
 ### 回家思考
