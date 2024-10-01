@@ -6,19 +6,20 @@
 2. [helium 指令一覽表 (英文)](https://github.com/mherrmann/helium/blob/master/docs/cheatsheet.md)
 
 ### 前置作業
-```sh
-# 1. 設定虛擬環境
-python -m venv venv
 
-# 2. 安裝 helium
-venv\scripts\pip install helium
+|說明|指令|
+|----|----|
+|設定虛擬環境|`python -m venv venv`|
+|安裝 helium|`venv\scripts\pip install helium`|
+|打開環境|`venv\scripts\python`|
+|打開 helium|`from helium import *`|
 
-# 3. 打開環境
-venv\scripts\python
+### helium 指令
 
-# 4. 打開 helium
-from helium import *
-```
+|說明|指令|
+|----|----|
+|打開瀏覽器|`start_chrome('https://forms.gle/d5kH8BiUFYss4tJr9')`|
+|關閉瀏覽器|`kill_browser()`|
 
 ### 回家思考
 1. 應用場景分享
