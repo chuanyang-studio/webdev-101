@@ -21,6 +21,9 @@
 |----|----|
 |打開瀏覽器|`start_chrome('https://www.google.com/')`|
 |關閉瀏覽器|`kill_browser()`|
+|滑鼠|`click()`|
+|快捷鍵|`press(ALT + 'T')`|
+|打字|`write('login')`|
 
 ### 回家思考
 1. 應用場景分享
